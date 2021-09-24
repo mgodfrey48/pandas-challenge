@@ -1,0 +1,3 @@
+Based on the summary tables created in the PyCitySchools, it appears that students at schools with more than 2000 students perform worse overall in every subject analyzed than schools with less than 2000 students.
+
+Additionally, it appears that the schools that are spending less money per student are also the schools that have students performing better on each subject test.
