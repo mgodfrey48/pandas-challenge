@@ -11,8 +11,11 @@ The code in this repository qenerates various reports using student data from a 
 * Scores by School Size - repeat of the breakdown by spending, but with schools grouped based on a reasonable approximation of school size (Small, Medium, Large)
 * Scores by School Type - repeat of the breakdown by spending, but with schools grouped based on school type (Charter vs. District)
 
+After generating each summary table I made the following observations:
+* It appears that students at schools with more than 2000 students perform worse overall in every subject analyzed than schools with less than 2000 students.
+* Additionally, it appears that the schools that are spending less money per student are also the schools that have students performing better on each subject test.
+
 
 ## To produce the analysis on your computer:
 1. Clone this repository to your computer
 2. In the PyCitySchools directory, open `PyCityShools_starter.ipynb` in a jupyter notebook and run the code in each cell
-3. If you would like to see two insights I found from the data analysis, open `PyCitySchools_Analysis.txt` in a text editor.
