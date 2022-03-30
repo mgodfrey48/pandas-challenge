@@ -2,29 +2,10 @@
 
 The code in this repository qenerates various reports using student data from a hypothetical school district. The reports include:
 * District Summary - a high level snapshot (in table form) of the district's key metrics, including:, Total Schools, Total Students, Total Budget, Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math), % Passing Reading (The percentage of students that passed reading), % Overall Passing (The percentage of students that passed math and reading)
-* School Summary - an overview table that summarizes key metrics about each school, including:
-* * School Name
-* * School Type
-* * Total Students
-* * Total School Budget
-* * Per Student Budget
-* * Average Math Score
-* * Average Reading Score
-* * % Passing Math (The percentage of students that passed math.)
-* * % Passing Reading (The percentage of students that passed reading.)
-* * % Overall Passing (The percentage of students that passed math and reading.)
-
-
-
-
-Top Performing Schools (By % Overall Passing)
-
-Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
-
-School Name
-School Type
-Total Students
-Total School Budget
+* School Summary - an overview table that summarizes key metrics about each school, including: School Name, School Type ,Total Students, Total School Budget, Per Student Budget, Average Math Score, Average Reading Score, % Passing Math (The percentage of students that passed math), % Passing Reading (The percentage of students that passed reading), % Overall Passing (The percentage of students that passed math and reading)
+* Top Performing Schools (By % Overall Passing)- a table that highlights the top 5 performing schools based on % Overall Passing. Includes: School Name, School Type 
+** Total Students
+** Total School Budget
 Per Student Budget
 Average Math Score
 Average Reading Score
